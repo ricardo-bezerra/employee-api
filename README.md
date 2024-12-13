@@ -1,2 +1,2 @@
-# employee-storage
-Creating a Employees storage environment
+# employee-api
+Creating a Employees storage environment API
